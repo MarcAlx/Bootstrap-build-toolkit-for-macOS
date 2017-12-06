@@ -8,7 +8,7 @@
 
 ## Setup
 
-1. Launch `getNode.app` if you don't have it and once the installer is open fullfill installation.
+1. Launch `getNode.app` to get node.js if you don't have it and once the installer is open fullfill installation.
 
 2. Launch `setup.app`
 

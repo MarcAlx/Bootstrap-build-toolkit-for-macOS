@@ -2,7 +2,7 @@
 
 **/!\ macOS only**
 
-**Versions : Bootstrap 4.0.0-beta.2 Node.js v8.9.2**
+**Versions : Bootstrap 4.0.0-beta.2 | Node.js v8.9.2**
 
 **All .app needs admin privilege in order to remove created temp file**
 
@@ -12,7 +12,7 @@
 
 2. Launch `setup.app`
 
-   A popup like should open :
+   A popup like this should open :
 
    ![](screenshots/install.png)
 
@@ -26,7 +26,7 @@
 
 2. Build theme via `update.app`
 
-A popup like should open :
+A popup like this should open :
 
 ![](screenshots/updt.png)
 
@@ -38,12 +38,14 @@ You can test your edit by openning  `dev/index.html` (don't forget to clear cach
 
 ## Further readings
 
-https://getbootstrap.com/docs/4.0/getting-started/build-tools/
-
 https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
+https://getbootstrap.com/docs/4.0/getting-started/build-tools/
+
+http://sass-lang.com
+
 ## NB 
-1. Everything could be done via command line by running `install.sh` and `update.sh` you should get the following results :
+1. Everything could be done via command line by running `install.sh` (only do `npm install`) and `update.sh` (do `npm run dist`) you should get the following results for `update.sh` :
 ![](screenshots/install-cli.png)
 
 2. All .app are applescript and could be edited in `script editor.app`

@@ -46,9 +46,10 @@ http://sass-lang.com
 
 ## NB 
 1. Everything could be done via command line by running `install.sh` (only do `npm install`) and `update.sh` (do `npm run dist`) you should get the following results for `update.sh` :
-![](screenshots/install-cli.png)
 
-2. All .app are applescript and could be edited in `script editor.app`
+   ![](screenshots/install-cli.png)
+
+2. All .app are applescript and could be edited in macOS `Script Editor.app`
 
 ## Troobleshooting
 

@@ -49,3 +49,7 @@ http://sass-lang.com
 ![](screenshots/install-cli.png)
 
 2. All .app are applescript and could be edited in `script editor.app`
+
+## Troobleshooting
+
+If it seems to not work (.app are failing) try running the `.app` by openning it in macOS `Script Editor.app` (ie push ▶ button)
